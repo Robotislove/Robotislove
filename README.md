@@ -26,11 +26,6 @@ You can use this api: https://github.com/Robotislove/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-  username=Robotislove&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/Robotislove/github-readme-stats)
 
 </p>
 
-### My Recent post on Github Pages!
-<a target="_blank" href="http://lemaden.top/rtab-map/">
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Robotislove)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robotislove)
